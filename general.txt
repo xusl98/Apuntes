@@ -1,5 +1,5 @@
 ->LTS = Long Time Support, se garantiza el mantenimiento durante un largo periodo de tiempo
-
+->cut = Class Under Test
 
 
 

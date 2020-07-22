@@ -12,4 +12,4 @@
 	-Herencia
 	-Polimorfismo
 	-Encapsulación
-
+->Protected está disponible en los hijos y en el namespace
