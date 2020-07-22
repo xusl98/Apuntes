@@ -1,0 +1,9 @@
+->LTS = Long Time Support, se garantiza el mantenimiento durante un largo periodo de tiempo
+
+
+
+
+
+---->MIRAR
+--->Licencia del código que aparece en stack overflow
+--->Aprovisionamiento vs containers

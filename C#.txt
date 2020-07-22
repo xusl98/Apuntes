@@ -1,0 +1,15 @@
+->Modificadores de acceso:
+	Más usados:
+		-Public
+		-Private: misma clase
+		-Protected
+	Otros menos usados:
+		-Internal
+		-Protected internal
+		-Private Protected
+->Si empieza por I es una interfaz
+->Propiedades lenguajes orientados a objetos
+	-Herencia
+	-Polimorfismo
+	-Encapsulación
+
