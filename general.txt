@@ -11,14 +11,21 @@
 
 
 ---->MIRAR
---> RBS Role Based Security 
+---> RBS Role Based Security 
+https://en.wikipedia.org/wiki/Role-based_access_control
 -->OWASP TOP 10
--->Información sobre logs
--->DDD Domain Driven Design
--->Destructores
--->Implementación del método equals
--->Patrón de prototipo y de factoría
--->Algorithms 4th Edition
+https://owasp.org/www-project-top-ten/
+--->Información sobre logs
+--->DDD Domain Driven Design
+https://en.wikipedia.org/wiki/Domain-driven_design
+--->Destructores
+https://www.informit.com/articles/article.aspx?p=25856&seqNum=9#:~:text=In%20object%2Doriented%20programming%2C%20a,subroutines%20in%20the%20class%20definition.
+--->Implementación del método equals
+--->Patrón de prototipo y de factoría
+https://albertcapdevila.net/patron-diseno-factoria-simple-csharp/
+https://es.wikipedia.org/wiki/Prototipo_(patr%C3%B3n_de_dise%C3%B1o)
+
+--->Algorithms 4th Edition
 
 
 
