@@ -1,3 +1,12 @@
+git clone
+git init
+git commit -m "mensaje aqui"
+git add
+git push -u origin master
+git push
+git pull
+
+
 git log
 git status
 git flow

@@ -1,5 +1,11 @@
+--->Comandos
+->cat /etc/group >>> Ver los grupos de usuarios
+
 ->LTS = Long Time Support, se garantiza el mantenimiento durante un largo periodo de tiempo
 ->cut = Class Under Test
+
+
+
 
 
 
