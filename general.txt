@@ -5,8 +5,7 @@
 
 
 ---->MIRAR
---->Licencia del código que aparece en stack overflow
---->Aprovisionamiento vs containers
+
 
 
 

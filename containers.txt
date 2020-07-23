@@ -1,0 +1,6 @@
+-->Para eliminar una imagen de un container primero hay que eliminar todos los container instanciados
+-->Comandos
+->docker run >>> Ejecuta un container
+->docker ps -a >>> Muestra todos los container de las imagenes
+->docker rm >>> Elimina un container
+->docker rmi >>> Elimina la imagen de un container
