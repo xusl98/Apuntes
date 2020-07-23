@@ -13,3 +13,4 @@
 	-Polimorfismo
 	-Encapsulación
 ->Protected está disponible en los hijos y en el namespace
+->El destructor ejecuta un código cuando el objeto es eliminado de memoria

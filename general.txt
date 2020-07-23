@@ -11,9 +11,14 @@
 
 
 ---->MIRAR
--->Role Based Security RBS
+--> RBS Role Based Security 
 -->OWASP TOP 10
-
+-->Información sobre logs
+-->DDD Domain Driven Design
+-->Destructores
+-->Implementación del método equals
+-->Patrón de prototipo y de factoría
+-->Algorithms 4th Edition
 
 
 
