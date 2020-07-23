@@ -6,3 +6,5 @@
 ->docker ps -a >>> Muestra todos los container de las imagenes
 ->docker rm >>> Elimina un container
 ->docker rmi >>> Elimina la imagen de un container
+
+->docker stop >>> Detiene un container
