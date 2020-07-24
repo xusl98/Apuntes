@@ -1,22 +1,27 @@
 --->Comandos
 ->cat /etc/group >>> Ver los grupos de usuarios
+->sudo chmod +x >>> Añadir permisos de ejecución a todos los usuarios
 
 ->LTS = Long Time Support, se garantiza el mantenimiento durante un largo periodo de tiempo
 ->cut = Class Under Test
 
 
 
-languageagora: al modificar un usuario que compruebe que la sesión está iniciada
+languageagora:
+- al modificar un usuario que compruebe que la sesión está iniciada
 y al cambiar el nombre que se actualice tanto en el perfil como en la barra
 de navegación
-aparece pantalla error al usar el buscador de usuarios
+-aparece pantalla error al usar el buscador de usuarios
+-hacer notificación cuando te hayan respondido a una pregunta
+-montar página en host
 
 
 
 
 
----->MIRAR
+----->MIRAR
 ---> AAA
+--->WebHook
 
 --->Algorithms 4th Edition
 
