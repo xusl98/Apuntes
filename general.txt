@@ -6,6 +6,9 @@
 
 
 
+languageagora: al modificar un usuario que compruebe que la sesión está iniciada
+y al cambiar el nombre que se actualice tanto en el perfil como en la barra
+de navegación
 
 
 
