@@ -1,3 +1,7 @@
+---->Cuenta
+-->User >> jsainzCursoCic
+-->E-Mail >> jsainz.curso.cic@gmail.com
+
 git clone
 git init
 git commit -m "mensaje aqui"
