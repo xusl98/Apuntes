@@ -5,6 +5,12 @@
 ->LTS = Long Time Support, se garantiza el mantenimiento durante un largo periodo de tiempo
 ->cut = Class Under Test
 
+->DTO = Data Transfer Object
+->VO = Value Object
+
+
+IP máquina gitlab
+54.37.81.52
 
 
 languageagora:
@@ -15,8 +21,7 @@ languageagora:
 
 
 ----->MIRAR
----> AAA
---->WebHook
+--->https://martinfowler.com/articles/mocksArentStubs.html
 
 --->Algorithms 4th Edition
 
