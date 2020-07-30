@@ -8,6 +8,10 @@
 ->DTO = Data Transfer Object
 ->VO = Value Object
 
+Usar testing unitario cuando:
+->Código complejo
+->Parte esencial de la aplicación
+
 
 IP máquina gitlab
 54.37.81.52
