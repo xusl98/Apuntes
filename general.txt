@@ -16,6 +16,7 @@ IP máquina gitlab
 languageagora:
 - envío de correo no funciona
 - hacer que los mensajes del chat sean encriptados
+- arreglar logos, probar a aumentar el tamaño del contenedor
 
 
 
