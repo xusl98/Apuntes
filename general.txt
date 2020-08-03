@@ -19,6 +19,7 @@ IP máquina gitlab
 
 languageagora:
 - envío de correo no funciona
+- quitar mapa
 - hacer que los mensajes del chat sean encriptados
 - arreglar logos, probar a aumentar el tamaño del contenedor
 
@@ -27,8 +28,11 @@ languageagora:
 
 ----->MIRAR
 --->https://martinfowler.com/articles/mocksArentStubs.html
-
 --->Algorithms 4th Edition
+--->Tracing
+--->Mirar asignaturas de la UNED
+--->ESB
+--->SOA
 
 
 
