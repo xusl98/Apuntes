@@ -8,8 +8,9 @@ git commit -m "mensaje aqui"
 git add
 git push -u origin master
 git push
-git pull
-
+git pull (es igual a fetch  merge)
+git fetch
+git merge
 
 git log
 git status

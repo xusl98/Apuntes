@@ -17,6 +17,14 @@ IP máquina gitlab
 54.37.81.52
 
 
+-->Capas:
+->Controlador
+->Servicio
+->Repositorio
+
+
+
+boe: asiento copiloto
 languageagora:
 - envío de correo no funciona
 - quitar mapa
@@ -51,4 +59,4 @@ languageagora:
 Alemán
 Subir Página (buscar hosting)
 Ejerc
-Pelo
+
