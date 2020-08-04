@@ -8,9 +8,12 @@ git commit -m "mensaje aqui"
 git add
 git push -u origin master
 git push
-git pull
-
+git pull (es igual a fetch  merge)
+git fetch
+git merge
 
 git log
 git status
 git flow
+
+git config http.proxy 'socks5://127.0.0.1:25900' para configurar el proxy
