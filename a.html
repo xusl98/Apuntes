@@ -30,12 +30,19 @@
                 div.style.webkitTransform = 'rotate('+deg+'deg)'; 
 
                 div.style.left = parseInt(div.style.left.split('px')[0]) + vx;
+                div.style.top = parseInt(div.style.top.split('px')[0]) + vy;
 
-                console.log(div.style.left)
-                if (parseInt(div.style.left.split('px')[0]) >= 800){
+                if (parseInt(div.style.left.split('px')[0]) >= 1200){
                     vx = -1;
                 } else if (parseInt(div.style.left.split('px')[0]) <= 20){
                     vx = 1;
+                }
+
+                
+                if (parseInt(div.style.top.split('px')[0]) >= 500){
+                    vy = -1;
+                } else if (parseInt(div.style.top.split('px')[0]) <= 20){
+                    vy = 1;
                 }
 
 
