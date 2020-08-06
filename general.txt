@@ -8,6 +8,8 @@
 ->DTO = Data Transfer Object
 ->VO = Value Object
 
+->DBA = Data Base Administrator 
+
 Usar testing unitario cuando:
 ->Código complejo
 ->Parte esencial de la aplicación
@@ -25,6 +27,9 @@ IP máquina gitlab
 
 
 boe: asiento copiloto
+
+programa gestionar horarios profesores
+
 languageagora:
 - envío de correo no funciona
 - quitar mapa
@@ -41,6 +46,8 @@ languageagora:
 --->Mirar asignaturas de la UNED
 --->ESB
 --->SOA
+--->ACID
+--->TOP 10 OWASP
 
 
 

@@ -16,4 +16,7 @@ git log
 git status
 git flow
 
+
+Añadir tags al subir una versión estable
+
 git config http.proxy 'socks5://127.0.0.1:25900' para configurar el proxy
