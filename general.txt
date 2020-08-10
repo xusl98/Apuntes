@@ -34,6 +34,9 @@ languageagora:
 - envío de correo no funciona
 - quitar mapa
 - hacer que los mensajes del chat sean encriptados
+- registro de visitas no funciona (en plantilla.js creo)
+
+chillingstudios:
 - arreglar logos, probar a aumentar el tamaño del contenedor
 
 
