@@ -51,8 +51,9 @@ chillingstudios:
 --->SOA
 --->ACID
 --->TOP 10 OWASP
-
-
+--->Code Reviews
+--->Pair programming
+--->Patrón thread local
 
 
 
