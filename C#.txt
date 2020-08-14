@@ -20,4 +20,4 @@
 ->dotnet test -a
 
 
-->Realizar comprobaciones en capa de negocio: (controller/service)
+->Realizar comprobaciones en capa de negocio: (controller)
