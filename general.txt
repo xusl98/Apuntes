@@ -54,6 +54,7 @@ chillingstudios:
 --->Code Reviews
 --->Pair programming
 --->Patrón thread local
+--->Fluent API
 
 
 
