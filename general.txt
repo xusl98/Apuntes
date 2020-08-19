@@ -43,6 +43,7 @@ chillingstudios:
 
 
 ----->MIRAR
+--->Proyecciones de bases de datos
 --->https://martinfowler.com/articles/mocksArentStubs.html
 --->Algorithms 4th Edition
 --->Tracing
