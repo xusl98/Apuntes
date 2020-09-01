@@ -9,9 +9,19 @@ chillingstudios:
 
 
 ejer:
+
+Lunes, Miércoles, Viernes, Domingo
 -dominadas +5
 -sentadilla +5
 -flex arquero +5
 -flex cono 
 -rueda +5
 -tumbado rodillas pecho
+
+Martes, Jueves, Sábado
+-dominada +5
+-escalada +5 
+-flex arquero +5
+-L sit
+-abdom tumbado
+-pseudo flex +5
