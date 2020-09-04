@@ -35,6 +35,7 @@ programa gestionar horarios profesores
 
 
 ----->MIRAR
+--->Documentación de jasmin
 --->Proyecciones de bases de datos
 --->https://martinfowler.com/articles/mocksArentStubs.html
 --->Algorithms 4th Edition
