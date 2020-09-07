@@ -1,3 +1,6 @@
+Traer bolígrafo
+
+
 languageagora:
 - envío de correo no funciona
 - quitar mapa
