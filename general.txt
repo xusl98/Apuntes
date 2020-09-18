@@ -31,6 +31,9 @@ boe: asiento copiloto
 programa gestionar horarios profesores
 
 
+---->HACER
+--->Montar en casa un servidor del ej15 y conectarlo con el ej25
+
 
 
 
