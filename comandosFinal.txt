@@ -1,4 +1,6 @@
 Primero: levantar un docker sql y en él levantar la base de datos deseada
+docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=yourStrong(!)Password' -p 1433:1433 -d mcr.microsoft.com/mssql/server
+para levantar la bd usar 127.0.0.1 y el update-database con las migrations
 
 En proyecto asp: 
 -docker build -t aspnetapp .
