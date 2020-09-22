@@ -14,6 +14,8 @@ Usar testing unitario cuando:
 ->Código complejo
 ->Parte esencial de la aplicación
 
+->Presentación con un html con presentacion e iframe (maximizable/minimizable) con la página a presentar
+
 
 IP máquina gitlab
 54.37.81.52
